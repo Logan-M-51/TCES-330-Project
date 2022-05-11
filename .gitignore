@@ -1,0 +1,16 @@
+*.bak
+**/*db
+**/*tmp
+**/simulation
+**/output_files
+**/transcript
+**/work
+*.wlf
+*.rpt
+*.ini
+*.srf
+*.ver
+**/bak
+*.tex
+**/*_minted*
+*.pdf
